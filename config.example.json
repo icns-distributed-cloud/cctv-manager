@@ -1,0 +1,14 @@
+{
+    "server": {
+        "server_name": "{server_name}",
+        "port": "{port}"
+    },
+    "docker": {
+        "server": "{server}",
+        "port": "{port}",
+        "image_name": "{image_name}",
+        "docker_api_version": "{docker_api_version}",
+        "container_name": "{container_name}"
+    },
+    "gpu_count": 3
+}
